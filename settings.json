@@ -1,12 +1,17 @@
 {
+    // "editor.autoIndentOnPaste": true,
+    // "editor.normalizeIndentOnPaste": false,
     "workbench.iconTheme": "material-icon-theme",
-    "workbench.colorTheme": "One Dark Theme",
     "window.zoomLevel": 0,
     "editor.renderWhitespace": "none",
     "editor.insertSpaces": false,
-    "editor.fontSize": 13,
+    "editor.fontSize": 11.5,
     "sublimeTextKeymap.promptV3Features": true,
     "editor.multiCursorModifier": "ctrlCmd",
     "editor.snippetSuggestions": "top",
-    "editor.formatOnPaste": true
-}	
+    // "editor.formatOnPaste": true,
+    "workbench.colorTheme": "Super One Dark",
+    "files.associations": {
+        "*.py ": "python"
+    }
+}
